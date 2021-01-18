@@ -25,7 +25,7 @@ CS 7301: Spring 2021 Course on Advanced Topics in Optimization in Machine Learni
     - Applications of Continuous Optimization: Supervised and Deep Learning, Meta-Learning, Semi-supervised Learning, Bi-Level Optimization and Reweighting
 - Week 10
     - Applications of Discrete Optimization: Feature Selection, Data Subset Selection and Core-Sets, Data Partitioning, Active Learning, Subset Selection 
-- Rest of the Weels
+- Rest of the Weeks
     - Paper Presentations by the Students and Projects
     
 # Grading
