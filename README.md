@@ -1,5 +1,5 @@
 # AdvancedML
-CS 7301: Spring 2021 Course on Advanced Topics in Optimization in Machine Learning
+CS 7301: Spring 2021 Course on `Advanced Topics in Optimization for Machine Learning`
 
 # Topics Covered in this Course
 - Week 1
