@@ -21,9 +21,9 @@ CS 7301: Spring 2021 Course on `Advanced Topics in Optimization for Machine Lear
     - Submodular Minimization and Continuous Extensions
 - Week 8
     - Other Optimization Problems: DS Optimization, SCSC/SCSK, Continuous Submodularity, Multisubmodularity
-- Week 9
+- Week 9, 10
     - Applications of Continuous Optimization: Supervised and Deep Learning, Meta-Learning, Semi-supervised Learning, Bi-Level Optimization and Reweighting
-- Week 10
+- Week 11, 12
     - Applications of Discrete Optimization: Feature Selection, Data Subset Selection and Core-Sets, Data Partitioning, Active Learning, Subset Selection 
 - Rest of the Weeks
     - Paper Presentations by the Students and Projects
