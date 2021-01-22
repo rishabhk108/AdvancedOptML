@@ -35,3 +35,12 @@ CS 7301: Spring 2021 Course on `Advanced Topics in Optimization for Machine Lear
 - 10% for Class Participation (Interaction, asking questions, answering questions)
 - 40% Paper Presentations (2 papers per student)
 - 50% for the Final Project
+
+# Other Similar Courses
+- https://blogs.princeton.edu/imabandit/orf523-the-complexities-of-optimization/
+- http://www.cs.cmu.edu/~pradeepr/convexopt/
+- https://ee227c.github.io/
+- https://github.com/epfml/OptML_course
+- https://www.cs.ubc.ca/~schmidtm/Courses/LecturesOnML/
+- http://www-math.mit.edu/~goemans/18433S15/18433.html
+- https://people.ece.uw.edu/bilmes/classes/ee563_spring_2018/
