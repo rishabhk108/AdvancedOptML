@@ -42,10 +42,16 @@ Video Lectures are on this youtube playlist: https://www.youtube.com/playlist?li
 - 50% for the Final Project
 
 # Other Similar Courses
-- https://blogs.princeton.edu/imabandit/orf523-the-complexities-of-optimization/
-- http://www.cs.cmu.edu/~pradeepr/convexopt/
-- https://ee227c.github.io/
-- https://github.com/epfml/OptML_course
-- https://www.cs.ubc.ca/~schmidtm/Courses/LecturesOnML/
-- http://www-math.mit.edu/~goemans/18433S15/18433.html
-- https://people.ece.uw.edu/bilmes/classes/ee563_spring_2018/
+- Convex Optimization: https://blogs.princeton.edu/imabandit/orf523-the-complexities-of-optimization/
+- Convex Optimization: http://www.cs.cmu.edu/~pradeepr/convexopt/
+- Convex Optimization: https://ee227c.github.io/
+- Convex Optimization: https://github.com/epfml/OptML_course
+- Convex Optimization: https://www.cs.ubc.ca/~schmidtm/Courses/LecturesOnML/
+- Combinatorial Optimization: http://www-math.mit.edu/~goemans/18433S15/18433.html
+- Subodular Optimization: https://people.ece.uw.edu/bilmes/classes/ee563_spring_2018/
+
+# Resources/Books
+- Martin Jaggi's EPFL Course notes on Convex Optimization: https://github.com/epfml/OptML_course/blob/master/lecture_notes/lecture-notes.pdf
+- Sebastian Bubeck's Monograph on Convex Optimization: https://arxiv.org/pdf/1405.4980.pdf
+- Submodular Optimization Survey: http://www.bioinfo.org.cn/~dbu/AlgorithmCourses/Lectures/Lec7-SubModular-Golovin.pdf
+- Francis Bach's Monograph on Submodular Optimizationn and Convexity: https://arxiv.org/pdf/1111.6453.pdf
