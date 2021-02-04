@@ -50,8 +50,10 @@ Video Lectures are on this youtube playlist: https://www.youtube.com/playlist?li
 - Combinatorial Optimization: http://www-math.mit.edu/~goemans/18433S15/18433.html
 - Subodular Optimization: https://people.ece.uw.edu/bilmes/classes/ee563_spring_2018/
 
-# Resources/Books
+# Resources/Books/Papers
 - Martin Jaggi's EPFL Course notes on Convex Optimization: https://github.com/epfml/OptML_course/blob/master/lecture_notes/lecture-notes.pdf
 - Sebastian Bubeck's Monograph on Convex Optimization: https://arxiv.org/pdf/1405.4980.pdf
 - Submodular Optimization Survey: http://www.bioinfo.org.cn/~dbu/AlgorithmCourses/Lectures/Lec7-SubModular-Golovin.pdf
 - Francis Bach's Monograph on Submodular Optimizationn and Convexity: https://arxiv.org/pdf/1111.6453.pdf
+
+
