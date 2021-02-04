@@ -1,0 +1,109 @@
+List of Papers relevant to this course
+
+Convex/Continuous Optimization
+
+1) H. Robinds and S. Monro, “A stochastic approximation method,” Annals of Mathematical Statistics, vol. 22, pp. 400–407, 1951. ↩︎
+2) Darken, C., Chang, J., & Moody, J. (1992). Learning rate schedules for faster stochastic gradient search. Neural Networks for Signal Processing II Proceedings of the 1992 IEEE Workshop, (September), 1–11. http://doi.org/10.1109/NNSP.1992.253713 
+3) Dauphin, Y., Pascanu, R., Gulcehre, C., Cho, K., Ganguli, S., & Bengio, Y. (2014). Identifying and attacking the saddle point problem in high-dimensional non-convex optimization. arXiv, 1–14. Retrieved from http://arxiv.org/abs/1406.2572 
+4) Sutton, R. S. (1986). Two problems with backpropagation and other steepest-descent learning procedures for networks. Proc. 8th Annual Conf. Cognitive Science Society. 
+5) Qian, N. (1999). On the momentum term in gradient descent learning algorithms. Neural Networks : The Official Journal of the International Neural Network Society, 12(1), 145–151. http://doi.org/10.1016/S0893-6080(98)00116-6 
+6) Nesterov, Y. (1983). A method for unconstrained convex minimization problem with the rate of convergence o(1/k2). Doklady ANSSSR (translated as Soviet.Math.Docl.), vol. 269, pp. 543– 547. 
+7) Bengio, Y., Boulanger-Lewandowski, N., & Pascanu, R. (2012). Advances in Optimizing Recurrent Networks. Retrieved from http://arxiv.org/abs/1212.0901 
+8) Sutskever, I. (2013). Training Recurrent neural Networks. PhD Thesis. 
+9) Duchi, J., Hazan, E., & Singer, Y. (2011). Adaptive Subgradient Methods for Online Learning and Stochastic Optimization. Journal of Machine Learning Research, 12, 2121–2159. Retrieved from http://jmlr.org/papers/v12/duchi11a.html 
+10) Dean, J., Corrado, G. S., Monga, R., Chen, K., Devin, M., Le, Q. V, … Ng, A. Y. (2012). Large Scale Distributed Deep Networks. NIPS 2012: Neural Information Processing Systems, 1–11. http://papers.nips.cc/paper/4687-large-scale-distributed-deep-networks.pdf 
+11) Pennington, J., Socher, R., & Manning, C. D. (2014). Glove: Global Vectors for Word Representation. Proceedings of the 2014 Conference on Empirical Methods in Natural Language Processing, 1532–1543. http://doi.org/10.3115/v1/D14-1162 
+12) Zeiler, M. D. (2012). ADADELTA: An Adaptive Learning Rate Method. Retrieved from http://arxiv.org/abs/1212.5701 
+13) Duchi et al. [3] give this matrix as an alternative to the full matrix containing the outer products of all previous gradients, as the computation of the matrix square root is infeasible even for a moderate number of parameters d
+14) Kingma, D. P., & Ba, J. L. (2015). Adam: a Method for Stochastic Optimization. International Conference on Learning Representations, 1–13. 
+15) S. Reddi, S. Kale and S. Kumar, On the Convergence of Adam and Beyond, ICLR 2018. Link: https://openreview.net/pdf?id=ryQu7f-RZ
+16) Dozat, T. (2016). Incorporating Nesterov Momentum into Adam. ICLR Workshop, (1), 2013–2016.
+17) Loshchilov, I., & Hutter, F. (2019). Decoupled Weight Decay Regularization. In Proceedings of ICLR 2019. 
+18) Zhou, Pan, et al. "Towards Theoretically Understanding Why SGD Generalizes Better Than ADAM in Deep Learning." arXiv preprint arXiv:2010.05627 (2020).
+19) Ma, J., & Yarats, D. (2019). Quasi-hyperbolic momentum and Adam for deep learning. In Proceedings of ICLR 2019. 
+20) Lucas, J., Sun, S., Zemel, R., & Grosse, R. (2019). Aggregated Momentum: Stability Through Passive Damping. In Proceedings of ICLR 2019. 
+21) Niu, F., Recht, B., Christopher, R., & Wright, S. J. (2011). Hogwild! : A Lock-Free Approach to Parallelizing Stochastic Gradient Descent, 1–22. 
+22) Mcmahan, H. B., & Streeter, M. (2014). Delay-Tolerant Algorithms for Asynchronous Distributed Online Learning. Advances in Neural Information Processing Systems (Proceedings of NIPS), 1–9. Retrieved from http://papers.nips.cc/paper/5242-delay-tolerant-algorithms-for-asynchronous-distributed-online-learning.pdf 
+23) Abadi, M., Agarwal, A., Barham, P., Brevdo, E., Chen, Z., Citro, C., … Zheng, X. (2015). TensorFlow : Large-Scale Machine Learning on Heterogeneous Distributed Systems. 
+24) Luo, Liangchen, et al. "Adaptive gradient methods with dynamic bound of learning rate." arXiv preprint arXiv:1902.09843 (2019).
+25) Zhang, S., Choromanska, A., & LeCun, Y. (2015). Deep learning with Elastic Averaging SGD. Neural Information Processing Systems Conference (NIPS 2015), 1–24. Retrieved from http://arxiv.org/abs/1412.6651 ↩︎
+26) LeCun, Y., Bottou, L., Orr, G. B., & Müller, K. R. (1998). Efficient BackProp. Neural Networks: Tricks of the Trade, 1524, 9–50. http://doi.org/10.1007/3-540-49430-8_2 ↩︎
+27) Bengio, Y., Louradour, J., Collobert, R., & Weston, J. (2009). Curriculum learning. Proceedings of the 26th Annual International Conference on Machine Learning, 41–48. http://doi.org/10.1145/1553374.1553380 ↩︎
+28) Zaremba, W., & Sutskever, I. (2014). Learning to Execute, 1–25. Retrieved from http://arxiv.org/abs/1410.4615 ↩︎
+29) Ioffe, S., & Szegedy, C. (2015). Batch Normalization : Accelerating Deep Network Training by Reducing Internal Covariate Shift. arXiv Preprint arXiv:1502.03167v3. ↩︎
+30) Neelakantan, A., Vilnis, L., Le, Q. V., Sutskever, I., Kaiser, L., Kurach, K., & Martens, J. (2015). Adding Gradient Noise Improves Learning for Very Deep Networks, 1–11. Retrieved from http://arxiv.org/abs/1511.06807 ↩︎
+31) Wilson, Ashia C., et al. "The marginal value of adaptive gradient methods in machine learning." arXiv preprint arXiv:1705.08292 (2017).
+
+Submodular Optimization and Related Topics
+1) Wolsey, Laurence A. "An analysis of the greedy algorithm for the submodular set covering problem." Combinatorica 2.4 (1982): 385-393.
+2) Nemhauser, George L., Laurence A. Wolsey, and Marshall L. Fisher. "An analysis of approximations for maximizing submodular set functions—I." Mathematical programming 14.1 (1978): 265-294
+3) Mirzasoleiman, Baharan, et al. "Distributed submodular maximization: Identifying representative elements in massive data." Advances in Neural Information Processing Systems 26 (2013): 2049-2057
+4) Rishabh Iyer and Jeff Bilmes, Submodular optimization with submodular cover and submodular knapsack constraints, In Advances Neural Information Processing Systems 2013 (Best Paper Award)
+5) Rishabh K Iyer, Stefanie Jegelka, Jeff A Bilmes, Curvature and optimal algorithms for learning and minimizing submodular functions, In Advances of Neural Information Processing Systems 2013 
+6) Rishabh Iyer, Stefanie Jegelka, Jeff Bilmes, Fast semidifferential-based submodular function optimization, International Conference on Machine Learning (ICML) 2013 (Best Paper Award)
+7) Kai Wei, Rishabh K. Iyer, Jeff A. Bilmes, Fast multi-stage submodular maximization, International Conference on Machine Learning (ICML 2014 Link to Video) ) 
+8) Mirzasoleiman, Baharan, et al. "Lazier than lazy greedy." Proceedings of the AAAI Conference on Artificial Intelligence. Vol. 29. No. 1. 2015. 
+9) Badanidiyuru, Ashwinkumar, et al. "Streaming submodular maximization: Massive data summarization on the fly." Proceedings of the 20th ACM SIGKDD international conference on Knowledge discovery and data mining. 2014.
+10) Rishabh Iyer, Ninad Khargonkar, Jeff Bilmes, and Himanshu Asnani, Submodular Combinatorial Information Measures with Applications in Machine Learning, The 32nd International Conference on Algorithmic Learning Theory, ALT 2021 (29.2% Acceptance Rate) 
+11) Rishabh Iyer and Jeff Bilmes, A Memoization Framework for Scaling Submodular Optimization to Large Scale Problems, To Appear in Artificial Intelligence and Statistics (AISTATS) 2019, Naha, Okinawa, Japan (32.4% Acceptance Rate) 
+12) Rishabh Iyer and Jeff Bilmes, Concave Aspects of Submodular Functions, In IEEE International Symposium on Information Theory, ISIT 2020 
+13) L Chen, M Zhang, H Hassani, A Karbasi, Black box submodular maximization: Discrete and continuous settings, In AISTATS 2020
+14) A Badanidiyuru, A Karbasi, E Kazemi, J Vondrák, Submodular maximization through barrier functions, arXiv preprint arXiv:2002.03523	
+15) H Hassani, A Karbasi, A Mokhtari, Z Shen, Stochastic Conditional Gradient++:(Non) Convex Minimization and Continuous Submodular Maximization, SIAM Journal on Optimization 30 (4), 3315-3344	
+16) A Mokhtari, H Hassani, A Karbasi, Stochastic conditional gradient methods: From convex minimization to submodular maximization, JMLR 2020
+17) Kulesza, Alex, and Ben Taskar. "Determinantal point processes for machine learning." arXiv preprint arXiv:1207.6083 (2012).
+18) M Mitrovic, E Kazemi, M Zadimoghaddam, A Karbasi, Data summarization at scale: A two-stage submodular approach, ICML 2018
+19) Zhang, Haifeng, and Yevgeniy Vorobeychik. "Submodular optimization with routing constraints." Proceedings of the AAAI conference on artificial intelligence. Vol. 30. No. 1. 2016.
+20) Hassidim, Avinatan, and Yaron Singer. "Submodular optimization under noise." Conference on Learning Theory. PMLR, 2017.
+21) Breuer, Adam, Eric Balkanski, and Yaron Singer. "The FAST algorithm for submodular maximization." International Conference on Machine Learning. PMLR, 2020.
+22) Harshaw, Chris, et al. "Submodular maximization beyond non-negativity: Guarantees, fast algorithms, and applications." International Conference on Machine Learning. PMLR, 2019.
+23) Badanidiyuru, Ashwinkumar, and Jan Vondrák. "Fast algorithms for maximizing submodular functions." Proceedings of the twenty-fifth annual ACM-SIAM symposium on Discrete algorithms. Society for Industrial and Applied Mathematics, 2014.
+
+Applications in Machine Learning
+A) Data Subset Selection
+1) Kai Wei, Rishabh Iyer, Jeff Bilmes, Submodularity in data subset selection and active learning, International Conference on Machine Learning (ICML) 2015: 
+2) Wei, Kai, et al. "Submodular subset selection for large-scale speech training data." 2014 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP) IEEE, 2014.
+3) Kirchhoff, Katrin, and Jeff Bilmes. "Submodularity for data selection in machine translation." Proceedings of the 2014 Conference on Empirical Methods in Natural Language Processing (EMNLP). 2014.
+4) Yuzong Liu, Rishabh Iyer, Katrin Kirchhoff, Jeff Bilmes, SVitchboard-II and FiSVer-I: Crafting high quality and low complexity conversational english speech corpora using submodular function optimization,  Computer Speech & Language 42, 122-142, 2017 
+5) Vishal Kaushal, Rishabh Iyer, Suraj Kothiwade, Rohan Mahadev, Khoshrav Doctor, and Ganesh Ramakrishnan, Learning From Less Data: A Unified Data Subset Selection and Active Learning Framework for Computer Vision, 7th IEEE Winter Conference on Applications of Computer Vision (WACV), 2019 Hawaii, USA
+6) Coleman, Cody, et al. "Selection via proxy: Efficient data selection for deep learning." ICLR 2020
+7) Baharan Mirzasoleiman, Jeff Bilmes, and Jure Leskovec. Coresets for Data-efficient Training of Machine Learning Models. In International Conference on Machine Learning (ICML), July 2020. 
+8) Baharan Mirzasoleiman, Kaidi Cao, Jure Leskovec, Coresets for Robust Training of Neural Networks against Noisy Labels, In Proc. Advances in Neural Information Processing Systems (NeurIPS), 2020
+9) Krishnateja Killamsetty, Durga Sivasubramanian, Ganesh Ramakrishnan, and Rishabh Iyer, GLISTER: Generalization based Data Subset Selection for Efficient and Robust Learning, 35th AAAI Conference on Artificial Intelligence, AAAI 2021 
+10) S Durga, Krishnateja Killamsetty, Abir De, Ganesh Ramakrishnan, Baharan Mirzasoleiman, Rishabh Iyer, Grad-Match: A Gradient Matching based Data Selection Framework for Efficient Learning (coming soon)
+
+B) Active Learning
+1) Settles, Burr. Active learning literature survey. University of Wisconsin-Madison Department of Computer Sciences, 2009.
+2) A New Active Labeling Method for Deep Learning, IJCNN, 2014 
+3) Kai Wei, Rishabh Iyer, Jeff Bilmes, Submodularity in data subset selection and active learning, International Conference on Machine Learning (ICML) 2015 
+4) Deep Bayesian Active Learning with Image Data, ICML, 2017 
+5) Ashish Kulkarni, Narasimha Raju Uppalapati, Pankaj Singh, Ganesh Ramakrishnan: An Interactive Multi-Label Consensus Labeling Model for Multiple Labeler Judgments. In Proceedings of the 32nd AAAI Conference on Artificial Intelligence (AAAI-18), New Orleans, Louisiana, USA. 
+6) Active Learning for Convolutional Neural Networks: A Core-Set Approach, ICLR, 2018
+7) Adversarial Active Learning for Deep Networks: a Margin Based Approach, arXiv, 2018
+8) Vishal Kaushal, Rishabh Iyer, Anurag Sahoo, Khoshrav Doctor, Narasimha Raju, Ganesh Ramakrishnan, Learning From Less Data: Diversified Subset Selection and Active Learning in Image Classification Tasks, In Proceedings of The 7th IEEE Winter Conference on Applications of Computer Vision (WACV), 2019, Hawaii, USA. 
+9) Ash, Jordan T., et al. "Deep batch active learning by diverse, uncertain gradient lower bounds." ICLR 2020. 
+10) Krishnateja Killamsetty, Durga Sivasubramanian, Ganesh Ramakrishnan, and Rishabh Iyer, GLISTER: Generalization based Data Subset Selection for Efficient and Robust Learning, In Proceedings of the 35th AAAI Conference on Artificial Intelligence, AAAI 2021 
+
+C) Feature Selection
+1) Peng, Hanchuan, Fuhui Long, and Chris Ding. "Feature selection based on mutual information criteria of max-dependency, max-relevance, and min-redundancy." IEEE Transactions on pattern analysis and machine intelligence 27.8 (2005): 1226-1238.
+2) Brown, Gavin, et al. "Conditional likelihood maximisation: a unifying framework for information theoretic feature selection." The journal of machine learning research 13.1 (2012): 27-66.
+3) Naveen Nair, Amrita Saha, Ganesh Ramakrishnan, Shonali Krishnaswamy , Efficent Rule Ensemble Learning in Structured Outpt Spaces, AAAI 2012
+4) Rishabh Iyer, Jeff Bilmes, Algorithms for approximate minimization of the difference between submodular functions, with applications, Uncertainty in Artificial Intelligence (UAI) 2012
+5) Bateni, MohammadHossein, et al. "Categorical feature compression via submodular optimization." arXiv preprint arXiv:1904.13389 (2019).
+6) Srijita Das, Rishabh Iyer, Sriraam Natarajan , A Clustering based Selection Framework for  Cost Aware and Test-time Feature Elicitation, In CODS-COMAD 2021 
+
+D) Data Summarization
+1) Ian Simon, Noah Snavely, and Steven M. Seitz. Scene Summarization for Online Image Collections. In ICCV, 2007. Zhang, Ke, et al. 
+2) Lin, Hui, and Jeff Bilmes. "A class of submodular functions for document summarization." Proceedings of the 49th Annual Meeting of the Association for Computational Linguistics: Human Language Technologies. 2011.
+3) Sebastian Tschiatschek, Rishabh K Iyer, Haochen Wei, Jeff A Bilmes, Learning mixtures of submodular functions for image collection summarization,  In Advances in Neural Information Processing Systems (NIPS) 2014
+4) Gong, Boqing, et al. Diverse sequential subset selection for supervised video summarization. Advances in Neural Information Processing Systems. 2014 
+5) Gygli, Michael, Helmut Grabner, and Luc Van Gool. Video summarization by learning submodular mixtures of objectives. Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition. 2015. 
+6) Xu, Jia, et al. Gaze-enabled egocentric video summarization via constrained submodular maximization. Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition. 2015 
+7) Ramakrishna Bairi, Rishabh Iyer, Ganesh Ramakrishnan and Jeff Bilmes , Summarizing Multi-Document Topic Hierarchies using Submodular Mixtures, (ACL), 2015
+8) Sharghi, Aidean, Boqing Gong, and Mubarak Shah. "Query-focused extractive video summarization. European Conference on Computer Vision. Springer, Cham, 2016. 
+9) Video summarization with long short-term memory. European conference on computer vision. Springer, Cham, 2016. 
+10) Mirzasoleiman, Baharan, Stefanie Jegelka, and Andreas Krause. Streaming non-monotone submodular maximization: Personalized video summarization on the fly. arXiv preprint arXiv:1706.03583 (2017). 
+11) Vishal Kaushal, Rishabh Iyer, Suraj Kothiwade, Sandeep Subramanium, and Ganesh Ramakrishnan, A Framework Towards Domain Specific Video Summarization, 7th IEEE Winter Conference on Applications of Computer Vision (WACV), 2019, Hawaii, USA. 
+12) Vishal Kaushal, Rishabh Iyer, Anurag Sahoo, Pratik Dubal, Suraj Kothawade, Rohan Mahadev, Kunal Dargan, Ganesh Ramkrishnan, Demystifying Multi-Faceted Video Summarization: Tradeoff Between Diversity,Representation, Coverage and Importance, 7th IEEE Winter Conference on Applications of Computer Vision (WACV), 2019, Hawaii, USA.
+13) Vishal Kaushal, Suraj Kothawade, Ganesh Ramakrishnan, Jeff Bilmes, Himanshu Asnani, and Rishabh Iyer, A Unified Framework for Generic, Query-Focused, Privacy Preserving and Update Summarization using Submodular Information Measures, arXiv:2010.05631
+
