@@ -55,5 +55,6 @@ Video Lectures are on this youtube playlist: https://www.youtube.com/playlist?li
 - Sebastian Bubeck's Monograph on Convex Optimization: https://arxiv.org/pdf/1405.4980.pdf
 - Submodular Optimization Survey: http://www.bioinfo.org.cn/~dbu/AlgorithmCourses/Lectures/Lec7-SubModular-Golovin.pdf
 - Francis Bach's Monograph on Submodular Optimizationn and Convexity: https://arxiv.org/pdf/1111.6453.pdf
+- Online convex optimization by Elad Hazan: https://sites.google.com/view/intro-oco/
 
 
