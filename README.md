@@ -1,10 +1,10 @@
-# AdvancedML
+# Advanced Topics in Optimization for Machine Learning
 CS 7301: Spring 2021 Course on `Advanced Topics in Optimization for Machine Learning`
 
-# Video Lectures
+## Video Lectures
 Video Lectures are on this youtube playlist: https://www.youtube.com/playlist?list=PLGod0_zT9w92_evaYrf3-rE67AmgPJoUU
 
-# Github Link to all Demos
+## Github Link to all Demos
 https://github.com/rishabhk108/OptimizationDemos
 
 # Topics Covered in this Course
