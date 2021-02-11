@@ -25,12 +25,12 @@ Deadine for finalizing on the project topic: February 26th
 - Week 3: Gradient Descent Cont.
     - Accelerated Gradient Descent
     - Projected and Proximal Gradient Descent
-    - Possibly Coordinate and Conditional Gradient Methods (time permitting)
 - Week 4
+    - Projected GD and Conditional GD (Constrained Case)
     - Second Order Methods (Newton, Quasi-Newton, BFGS, LBFGS)
-    - Stochastic Gradient and Family (SGD, SVRG)
 - Week 5
-    - SGD Continued and Non-Convex Optimization. Modern variants of SGD particularly for deep learning (e.g. Adagrad, Adam, AdaDelta, RMSProp, Momentum etc.)
+    - Stochastic Gradient and Family (SGD, SVRG)
+    - SGD for Non-Convex Optimization. Modern variants of SGD particularly for deep learning (e.g. Adagrad, Adam, AdaDelta, RMSProp, Momentum etc.)
 - Week 6
     - Submodular Optimization: Basics, Definitions, Properties, and Examples. Submodular Information Measures, Probabilistic Submodular Functions, and Determinantal Point Processes
 - Week 7
