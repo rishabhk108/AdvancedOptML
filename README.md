@@ -7,6 +7,12 @@ Video Lectures are on this youtube playlist: https://www.youtube.com/playlist?li
 ## Github Link to all Demos
 https://github.com/rishabhk108/OptimizationDemos
 
+## Link to Google Spreadsheet for Paper Review and Project Topics
+https://docs.google.com/spreadsheets/d/1UHHFlo_8QAvmXjWqoU02Calq86S-ewYl7Jczjhgr0wY/edit?usp=sharing
+
+Deadline for finalizing on the papers to cover: February 19th
+Deadine for finalizing on the project topic: February 26th
+
 # Topics Covered in this Course
 - Week 1
     - Logistics, Outline of this Course
@@ -41,8 +47,12 @@ https://github.com/rishabhk108/OptimizationDemos
     
 # Grading
 - 10% for Class Participation (Interaction, asking questions, answering questions)
-- 40% Paper Presentations (2 papers per student)
+- 40% Paper Presentations (1-2 papers per student)
 - 50% for the Final Project
+    - Take a new dataset/problem and study how existing optimization algorithms work on them
+    - Take an existing problem and compare all optimization algorithms with your implementation from scratch
+    - Design a ML optimization toolkit with algorithms implemented from scratch -- if one of you would like to extend my current python demos for optimization, that will be an awesome contribution and I might pick it up for my future classes and acknowledge you :) 
+
 
 # Other Similar Courses
 - Convex Optimization: https://blogs.princeton.edu/imabandit/orf523-the-complexities-of-optimization/
