@@ -10,9 +10,9 @@ https://github.com/rishabhk108/OptimizationDemos
 ## Link to Google Spreadsheet for Paper Review and Project Topics
 https://docs.google.com/spreadsheets/d/1UHHFlo_8QAvmXjWqoU02Calq86S-ewYl7Jczjhgr0wY/edit?usp=sharing
 
-Deadline for finalizing on the papers to cover: February 19th
+Deadline for finalizing on the papers to cover: February 26th
 
-Deadine for finalizing on the project topic: February 26th
+Deadine for finalizing on the project topic: March 5th
 
 # Topics Covered in this Course
 - Week 1
