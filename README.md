@@ -29,19 +29,23 @@ Deadine for finalizing on the project topic: March 5th
     - Projected GD and Conditional GD (Constrained Case)
     - Second Order Methods (Newton, Quasi-Newton, BFGS, LBFGS)
 - Week 5
+    - Second Order Methods Completed
+    - Barzelia Borwein and Conjugate GD
+    - Coordinate Descent Family
+- Week 6
     - Stochastic Gradient and Family (SGD, SVRG)
     - SGD for Non-Convex Optimization. Modern variants of SGD particularly for deep learning (e.g. Adagrad, Adam, AdaDelta, RMSProp, Momentum etc.)
-- Week 6
-    - Submodular Optimization: Basics, Definitions, Properties, and Examples. Submodular Information Measures, Probabilistic Submodular Functions, and Determinantal Point Processes
 - Week 7
+    - Submodular Optimization: Basics, Definitions, Properties, and Examples. Submodular Information Measures, Probabilistic Submodular Functions, and Determinantal Point Processes
+- Week 8
     - Submodular Maximization Variants, Submodular Set Cover, Approximate submodularity. Algorithms under different constraints and monotone/non-monotone settings. Also, distributed and streaming algorithms.
-- Week 8 
+- Week 9 
     - Submodular Minimization and Continuous Extensions of Submodular Functions. Submodular Minimization under constraints.
-- Week 9
+- Week 10
     - Other Optimization Problems: DS Optimization, SCSC/SCSK, Continuous Submodularity, Multisubmodularity
-- Week 10, 11
+- Week 11
     - Applications of Continuous Optimization: Supervised and Deep Learning, Meta-Learning, Semi-supervised Learning, Bi-Level Optimization and Reweighting
-- Week 12, 13
+- Week 12
     - Applications of Discrete Optimization: Feature Selection, Data Subset Selection and Core-Sets, Data Partitioning, Active Learning, Subset Selection 
 - Rest of the Weeks
     - Paper Presentations/Project Presentations by the Students
