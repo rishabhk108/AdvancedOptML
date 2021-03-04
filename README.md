@@ -52,8 +52,9 @@ Deadine for finalizing on the project topic: March 5th
     
 # Grading
 - 10% for Class Participation (Interaction, asking questions, answering questions)
-- 40% Paper Presentations (1-2 papers per student)
-- 50% for the Final Project
+- 30% Assignments (2 Assignments, one on continuous optimization and one on discrete optimization)
+- 30% Paper Presentations (1-2 papers per student)
+- 30% for the Final Project
     - Take a new dataset/problem and study how existing optimization algorithms work on them
     - Take an existing problem and compare all optimization algorithms with your implementation from scratch
     - Design a ML optimization toolkit with algorithms implemented from scratch -- if one of you would like to extend my current python demos for optimization, that will be an awesome contribution and I might pick it up for my future classes and acknowledge you :) 
