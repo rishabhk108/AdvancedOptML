@@ -36,16 +36,18 @@ Deadine for finalizing on the project topic: March 5th
     - Stochastic Gradient and Family (SGD, SVRG)
     - SGD for Non-Convex Optimization. Modern variants of SGD particularly for deep learning (e.g. Adagrad, Adam, AdaDelta, RMSProp, Momentum etc.)
 - Week 7
-    - Submodular Optimization: Basics, Definitions, Properties, and Examples. Submodular Information Measures, Probabilistic Submodular Functions, and Determinantal Point Processes
+    - Submodular Optimization: Basics, Definitions, Properties, and Examples. 
 - Week 8
+    - Submodular Information Measures: Conditional Gain, Submodular Mutual Information, Submodular Span, Submodular Multi-Set Mutual Information
+- Week 9
     - Submodular Maximization Variants, Submodular Set Cover, Approximate submodularity. Algorithms under different constraints and monotone/non-monotone settings. Also, distributed and streaming algorithms.
-- Week 9 
+- Week 10 
     - Submodular Minimization and Continuous Extensions of Submodular Functions. Submodular Minimization under constraints.
-- Week 10
-    - Other Optimization Problems: DS Optimization, SCSC/SCSK, Continuous Submodularity, Multisubmodularity
 - Week 11
-    - Applications of Continuous Optimization: Supervised and Deep Learning, Meta-Learning, Semi-supervised Learning, Bi-Level Optimization and Reweighting
+    - Other Optimization Problems: DS Optimization, SCSC/SCSK, Continuous Submodularity, Multisubmodularity
 - Week 12
+    - Applications of Continuous Optimization: Supervised and Deep Learning, Meta-Learning, Semi-supervised Learning, Bi-Level Optimization and Reweighting
+- Week 13
     - Applications of Discrete Optimization: Feature Selection, Data Subset Selection and Core-Sets, Data Partitioning, Active Learning, Subset Selection 
 - Rest of the Weeks
     - Paper Presentations/Project Presentations by the Students
