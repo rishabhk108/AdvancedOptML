@@ -42,13 +42,9 @@ Deadine for finalizing on the project topic: March 5th
 - Week 9
     - Submodular Maximization Variants, Submodular Set Cover, Approximate submodularity. Algorithms under different constraints and monotone/non-monotone settings. Also, distributed and streaming algorithms.
 - Week 10 
-    - Submodular Minimization and Continuous Extensions of Submodular Functions. Submodular Minimization under constraints.
+    - Submodular Minimization and Continuous Extensions of Submodular Functions. Submodular Minimization under constraints, DS Optimization, Submodular Optimization under Submodular Constraints
 - Week 11
-    - Other Optimization Problems: DS Optimization, SCSC/SCSK, Continuous Submodularity, Multisubmodularity
-- Week 12
-    - Applications of Continuous Optimization: Supervised and Deep Learning, Meta-Learning, Semi-supervised Learning, Bi-Level Optimization and Reweighting
-- Week 13
-    - Applications of Discrete Optimization: Feature Selection, Data Subset Selection and Core-Sets, Data Partitioning, Active Learning, Subset Selection 
+    - Applications of Discrete Optimization: Data Subset Selection, Data Summarization, Feature Selection, Active Learning etc.
 - Rest of the Weeks
     - Paper Presentations/Project Presentations by the Students
     
