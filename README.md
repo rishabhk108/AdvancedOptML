@@ -40,9 +40,9 @@ Deadine for finalizing on the project topic: March 5th
 - Week 8
     - Submodular Information Measures: Conditional Gain, Submodular Mutual Information, Submodular Span, Submodular Multi-Set Mutual Information
 - Week 9
-    - Submodular Maximization Variants, Submodular Set Cover, Approximate submodularity. Algorithms under different constraints and monotone/non-monotone settings. Also, distributed and streaming algorithms.
-- Week 10 
-    - Submodular Minimization and Continuous Extensions of Submodular Functions. Submodular Minimization under constraints, DS Optimization, Submodular Optimization under Submodular Constraints
+    - Submodular Minimization and Continuous Extensions of Submodular Functions. Submodular Minimization under constraints
+- Week 10
+    - Submodular Maximization Variants, Submodular Set Cover, Approximate submodularity. Algorithms under different constraints and monotone/non-monotone settings. Also, distributed and streaming algorithms, DS Optimization, Submodular Optimization under Submodular Constraints
 - Week 11
     - Applications of Discrete Optimization: Data Subset Selection, Data Summarization, Feature Selection, Active Learning etc.
 - Rest of the Weeks
